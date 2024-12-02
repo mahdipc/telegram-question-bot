@@ -1,4 +1,4 @@
 class Config:
-    TOKEN = '7510197157:AAFIljUCUWwfm5EL_Q9IVU2-Qge7jbK9ehI'
+    TOKEN = 'YOUR_BOT_TOKEN'
     MIN_NUMBER = 1
     MAX_NUMBER = 100
